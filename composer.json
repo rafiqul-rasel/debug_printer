@@ -1,0 +1,21 @@
+{
+    "name": "rasel/debug_printer",
+    "description": "this is a debug console for php developer and all console print at the end",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rasel",
+            "email": "rafiqulcseduet@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "rasel\\debug_printer\\": "src/"
+        }
+    }
+    ,
+    "require": {
+
+    }
+}
